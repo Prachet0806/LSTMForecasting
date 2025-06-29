@@ -202,10 +202,10 @@ The model provides comprehensive evaluation:
 ## 🎯 Performance
 
 Best performance metrics:
-- **RMSE**: ~5 (varies with hyperparameters)
-- **MAE**: ~3.99
-- **MAPE**: ~1.9%
-- **R²**: ~0.95+
+- **RMSE**: ~4.19 (varies with hyperparameters)
+- **MAE**: ~3.25
+- **MAPE**: ~1.74%
+- **R²**: ~0.97+
 
 ## 🔍 Troubleshooting
 
