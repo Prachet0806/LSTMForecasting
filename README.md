@@ -61,7 +61,7 @@ LSTMForecasting/
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Prachet0806/LSTMForecasting/
    cd LSTMForecasting
    ```
 
@@ -128,14 +128,14 @@ python src/hyperparam_search.py
 python src/optuna_search.py
 ```
 
-### 3. Model Evaluation
-```bash
-python src/evaluate.py
-```
-
-### 4. Making Predictions
+### 3. Making Predictions
 ```bash
 python src/predict.py
+```
+
+### 4. Model Evaluation
+```bash
+python src/evaluate.py
 ```
 
 ### 5. Analyze Optuna Results
@@ -201,10 +201,10 @@ The model provides comprehensive evaluation:
 
 ## 🎯 Performance
 
-Typical performance metrics:
-- **RMSE**: ~3.12 (varies with hyperparameters)
-- **MAE**: ~2.5
-- **MAPE**: ~1.5%
+Best performance metrics:
+- **RMSE**: ~5 (varies with hyperparameters)
+- **MAE**: ~3.99
+- **MAPE**: ~1.9%
 - **R²**: ~0.95+
 
 ## 🔍 Troubleshooting
