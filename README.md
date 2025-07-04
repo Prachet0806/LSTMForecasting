@@ -137,8 +137,13 @@ python src/predict.py
 ```bash
 python src/evaluate.py
 ```
+### 5. Analyze Prediction Results
+```bash
+python src/optuna_analysis.py
+```
 
-### 5. Analyze Optuna Results
+
+### 6. Analyze Optuna Results
 ```bash
 python src/optuna_analysis.py
 ```
